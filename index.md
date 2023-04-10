@@ -6,7 +6,6 @@ A student at **UCSD** pursuing a double major in *Computer Science* and *Cogniti
 
 
 ## What I have learned
-
 ### git command line
    1. `git branch` to create a new branch
    2. `git status` with `--ignored` flag to check files that has been ignored
