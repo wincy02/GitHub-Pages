@@ -1,4 +1,4 @@
-![pic](https://amp.cheezburger.com/9039066880/hi-whatcha-doing)
+![pic](amp.cheezburger.com/9039066880/hi-whatcha-doing)
 # Hi, I'm Wincy :sunglasses: :full_moon: :computer: :capricorn:
 A student at **UCSD** pursuing a double major in *Computer Science* and *Cognitive Science with a specialization in Machine Learing and Neural Computation*.
 
