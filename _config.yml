@@ -1,1 +1,4 @@
+theme: Leap day
 
+plugins:
+  - jemoji
