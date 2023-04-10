@@ -16,6 +16,8 @@ A student at **UCSD** pursuing a double major in *Computer Science* and *Cogniti
 
 # Find me elsewhere :round_pushpin:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logoColor=white&link=https://www.linkedin.com/in/wincy-liang-31a983241/)](https://www.linkedin.com/in/wincy-liang-31a983241/)
+
+
 [github pages](https://github.com/wincy02/GitHub-Pages/blob/main/README.md#github-pages)
 
 # Goal (2023) :pushpin:
