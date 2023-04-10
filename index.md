@@ -3,6 +3,8 @@
 A student at **UCSD** pursuing a double major in *Computer Science* and *Cognitive Science with a specialization in Machine Learing and Neural Computation*.
 
 > "When you stop learning you start dying." - Albert Einstein
+
+
 ## What I have learned
 ### git command line
    1. `git branch` to create a new branch
@@ -10,12 +12,18 @@ A student at **UCSD** pursuing a double major in *Computer Science* and *Cogniti
 ### Language
   - C++/C
   - Python
+
+
+
 # Find me elsewhere :round_pushpin:
-![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logoColor=white&link=https://www.linkedin.com/in/wincy-liang-31a983241/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logoColor=white&link=https://www.linkedin.com/in/wincy-liang-31a983241/)](https://www.linkedin.com/in/wincy-liang-31a983241/)
+
+# Goal (2023)
 
 
-- [x]Basic information
-- [ ]Detail description
+
+- [x] Basic info about me
+- [ ] Add more detail 
 
 
 
