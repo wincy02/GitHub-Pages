@@ -27,5 +27,7 @@ A student at **UCSD** pursuing a double major in *Computer Science* and *Cogniti
 - [x] Basic info about me
 - [ ] Add more detail 
 
-
+theme: Leap day
+plugins:
+  - jemoji
 
