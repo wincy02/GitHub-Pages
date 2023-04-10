@@ -14,4 +14,8 @@ A student at **UCSD** pursuing a double major in *Computer Science* and *Cogniti
 ![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logoColor=white&link=https://www.linkedin.com/in/wincy-liang-31a983241/)
 
 
+- [x]Basic information
+- [ ]Detail description
+
+
 
