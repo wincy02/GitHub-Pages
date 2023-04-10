@@ -1,4 +1,3 @@
-theme: Leap day
-
+theme: minima
 plugins:
   - jemoji
