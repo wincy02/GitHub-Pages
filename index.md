@@ -6,12 +6,14 @@ A student at **UCSD** pursuing a double major in *Computer Science* and *Cogniti
 
 
 ## What I have learned
+
 ### git command line
    1. `git branch` to create a new branch
    2. `git status` with `--ignored` flag to check files that has been ignored
 ### Language
   - C++/C
   - Python
+  - Java
 
 
 # Find me elsewhere :round_pushpin:
@@ -21,7 +23,7 @@ A student at **UCSD** pursuing a double major in *Computer Science* and *Cogniti
 [github pages](https://github.com/wincy02/GitHub-Pages/blob/main/README.md#github-pages)
 
 # Goal (2023) :pushpin:
-
+- Finish assignment before deadline
 
 # Todo :hourglass_flowing_sand:
 - [x] Basic info about me
