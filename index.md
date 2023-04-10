@@ -1,4 +1,4 @@
-![pic](https://myoctocat.com/assets/images/base-octocat.svg)
+![pic](https://i.chzbgr.com/full/9039066880/hD1BC7C82/funny-cat-meme-of-a-nosy-cat-asking-watchu-doin-as-he-butts-his-face-right-into-your-business)
 # Hi, I'm Wincy :sunglasses: :full_moon: :computer: :capricorn:
 A student at **UCSD** pursuing a double major in *Computer Science* and *Cognitive Science with a specialization in Machine Learing and Neural Computation*.
 
