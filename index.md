@@ -30,13 +30,3 @@ A student at **UCSD** pursuing a double major in *Computer Science* and *Cogniti
 
 
 
-
-
-
-
-
-theme: Leap day
-
-plugins:
-  - jemoji
-
